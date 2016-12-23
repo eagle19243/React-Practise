@@ -1,0 +1,26 @@
+{
+    "name":                 "react-demo1",
+    "version":              "1.0.0",
+    "description":          "Project boilerplate, React-Demo1",
+    "scripts": {
+        "start":            "webpack-dev-server --content-base build/"  
+    },
+
+    "dependencies": {
+        "react":            "*",
+        "react-dom":        "*"
+    },
+
+    "devDependencies": {
+        "html-webpack-plugin":  "*",
+        "webpack-dev-server":   "*",
+        "webpack":              "*",
+        "babel-loader":         "*",
+        "babel-preset-es2015":  "*",
+        "babel-preset-react":   "*",
+        "babel-preset-stage-0": "*"
+    },
+
+    "author": "Eagle19243",
+    "license": "ISC"
+}
