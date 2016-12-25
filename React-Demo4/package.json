@@ -1,7 +1,7 @@
 {
-    "name":                         "react-demo2",
+    "name":                         "react-demo4",
     "version":                      "1.0.0",
-    "description":                  "React-Demo2",
+    "description":                  "React-Demo4",
     "scripts": {
         "start":                    "webpack-dev-server --hot --host 0.0.0.0"
     },
