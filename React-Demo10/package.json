@@ -1,7 +1,7 @@
 {
   "name": "react-demo10",
   "version": "1.0.0",
-  "description": "React-Demo10",
+  "description": "React-Demo10, React-Redux",
   "scripts": {
     "start": "webpack-dev-server --hot --host 0.0.0.0"
   },
